@@ -1,10 +1,30 @@
 # vim
 
+## 教程
+
+```sh
+vimtutor zh
+```
+
+## config
+
+```sh
+# in vim
+:source ~/.vimrc
+# or
+:source %
+```
+
 ## 插件
 
 [vimawesome](https://vimawesome.com/)
 
 [vim-plug](https://github.com/junegunn/vim-plug)
+
+```sh
+# vim
+:PlugInstall
+```
 
 ## 缩写
 
